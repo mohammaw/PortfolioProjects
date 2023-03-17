@@ -1,4 +1,4 @@
-                                                       Portfolio Projects for Data Analytics
+Portfolio Projects for Data Analytics
                                                        
 This repository contains a collection of data analytics projects that I have completed as part of my portfolio. The projects cover a wide range of topics and techniques, including data cleaning and preprocessing, exploratory data analysis, visualization, statistical analysis, and machine learning.
 
